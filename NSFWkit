@@ -1,0 +1,39 @@
+
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/turtle"))()
+
+local OwO = library:Window("Nova | NSFW Kit")
+
+OwO:Button("🟦 Bang R6", function()
+   loadstring(game:HttpGet("https://pastebin.com/raw/aPSHMV6K"))()
+end)
+
+OwO:Button("🟦 Bang R15", function()
+   loadstring(game:HttpGet("https://pastebin.com/raw/1ePMTt9n"))()
+end)
+
+OwO:Button("🟩 Suck R6", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/SymCfnAW"))()
+end)
+
+OwO:Button("🟩 Suck R15", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/p8yxRfr4"))()
+end)
+
+OwO:Button("🟨 Jerk R6", function()
+    loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+end)
+
+OwO:Button("🟨 Jerk R15", function()
+    loadstring(game:HttpGet("https://pastefy.app/YZoglOyJ/raw"))()
+end)
+
+
+
+
+
+OwO:Label("Credits to Asap", Color3.fromRGB(127, 143, 166))
+
+
+dropdown:Button("New button")
+
+dropdown:Remove("Button")
